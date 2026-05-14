@@ -1,0 +1,8 @@
+# R auto-generated artifacts
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS files
+.DS_Store
